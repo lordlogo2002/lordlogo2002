@@ -24,10 +24,10 @@ Also I mainly program in python since I used it  for over 3 years now. But besid
 - CSS
 
 ## Experience with Different Languages
-In **Python*", I have experience working with **Flask**, **Arcade**, and **Pygame** libraries. However, my main **focus** has been **on** developing **console applications** and **modules**.
+In **Python**, I have experience working with **Flask**, **Arcade**, and **Pygame** libraries. However, my main **focus** has been **on** developing **console applications** and **modules**.
 
 In **C#**, I have primarily worked on solving **LeetCode problems** and creating a few **console-based** games.
 
-With **Lua*", I have created **simple games**, although they are not very engaging and tend to become boring quickly.
+With **Lua**, I have created **simple games**, although they are not very engaging and tend to become boring quickly.
 
 Please note that while I have explored various libraries and languages, my projects have been more **focused on console applications** and **smaller game prototypes**.
